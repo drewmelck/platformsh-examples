@@ -10,6 +10,8 @@ This document provides a basic introduction to TYPO3.
 
 Getting Started
 ---------------
+just a quick change
+
 
 TYPO3 requires a webserver with PHP and a database (MySQL recommended).
 Accessing the backend through a supported browser.
